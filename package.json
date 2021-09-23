@@ -1,0 +1,23 @@
+{
+  "name": "test-node-app",
+  "version": "1.0.0",
+  "description": "Boiler for testing web app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walleyyang/test-node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walleyyang/test-node-app/issues"
+  },
+  "homepage": "https://github.com/walleyyang/test-node-app#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
